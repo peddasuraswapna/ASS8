@@ -1,0 +1,11 @@
+# Conversion rates
+organic_conversion = 0.75
+paid_conversion = 0.60
+
+# Calculate difference
+difference = organic_conversion - paid_conversion
+
+# Print results
+print("Organic Conversion Rate:", organic_conversion*100, "%")
+print("Paid Conversion Rate:", paid_conversion*100, "%")
+print("Difference:", difference*100, "%")

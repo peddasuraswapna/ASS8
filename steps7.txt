@@ -1,0 +1,36 @@
+Here are the step-by-step calculations:
+
+Step 1: Define the Conversion Rates
+
+Organic Conversion Rate = 75% = 0.75
+Paid Conversion Rate = 60% = 0.60
+
+Step 2: Calculate the Difference
+
+Difference = Organic Conversion Rate - Paid Conversion Rate
+= 0.75 - 0.60
+
+Step 3: Perform the Subtraction
+
+0.75
+- 0.60
+------
+= 0.15
+
+Step 4: Convert the Difference to Percentage
+
+Difference (%) = Difference x 100
+= 0.15 x 100
+
+Step 5: Perform the Multiplication
+
+0.15 x 100 = 15
+
+The final answer is:
+
+Conversion Rate by Source
+
+Organic | 75%
+Paid    | 60%
+
+Difference: 15%
